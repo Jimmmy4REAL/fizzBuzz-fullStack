@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
-
+from flask_cors import CORS
 app = Flask(__name__)
+CORS(app) # added when testing mvp
 
 # FizzBuzz endpoint to generate a JSON list of numbers from 1 to 100,
 @app.route('/fizzbuzz', methods=['GET'])

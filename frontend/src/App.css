@@ -1,0 +1,45 @@
+/* Reset default margin and padding for the whole page */
+body,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling for the App container */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Styling for the heading */
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+/* Styling for the list */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Styling for each list item */
+li {
+  font-size: 20px;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/*  different background colors for 'Fizz', 'Buzz', and 'FizzBuzz' items */
+li:nth-child(3n + 1) {
+  background-color: #f9e5b5; /* Fizz color */
+}
+
+li:nth-child(5n) {
+  background-color: #c0e6f7; /* Buzz color */
+}
+
+li:nth-child(15n) {
+  background-color: #a1c8e8; /* FizzBuzz color */
+}
