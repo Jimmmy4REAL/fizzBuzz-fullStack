@@ -2,6 +2,12 @@
 
 This is a simple web application that prints the numbers from 1 to 100 according to the FizzBuzz rules. It replaces multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both 3 and 5 with "FizzBuzz."
 
+PS: demo for software enigneer interview take-home project, which shows:
+    1. fundamental frontend dev and backend dev (Flask and React)
+    2. JWT integration \ further system design in description
+    3. Docker CI flow
+    4. Git recording miletone
+
 ## Getting Started
 
 To run this project, you have two options:
