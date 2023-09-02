@@ -1,12 +1,13 @@
 # FizzBuzz Web App
 
-This is a simple web application that prints the numbers from 1 to 100 according to the FizzBuzz rules. It replaces multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both 3 and 5 with "FizzBuzz."
+This is a simple web application that prints the numbers from 1 to 100 according to the FizzBuzz rules (demo for software enigneer interview take-home project). It replaces multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both 3 and 5 with "FizzBuzz.", further system design about OWASP in description
 
-PS: demo for software enigneer interview take-home project, which shows:
-    1. fundamental frontend dev and backend dev (Flask and React)
-    2. JWT integration \ further system design in description
-    3. Docker CI flow
-    4. Git recording miletone
+- **Tech Stack**:
+  - Frontend: React
+  - Backend: Flask
+  - Authentication: JWT Integration
+  - CI/CD: Docker-based workflow
+  - Version Control: Git for recording milestones
 
 ## Getting Started
 
