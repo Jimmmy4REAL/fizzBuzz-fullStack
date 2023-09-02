@@ -1,6 +1,6 @@
 # FizzBuzz Web App
 
-This is a simple web application that prints the numbers from 1 to 100 according to the FizzBuzz rules (demo for software enigneer interview take-home project). It replaces multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both 3 and 5 with "FizzBuzz.", further system design about OWASP in description
+This is a simple web application that prints the numbers from 1 to 100 according to the FizzBuzz rules (demo for software enigneer interview take-home project). It replaces multiples of 3 with "Fizz," multiples of 5 with "Buzz," and multiples of both 3 and 5 with "FizzBuzz."; further system design about OWASP in description.
 
 - **Tech Stack**:
   - Frontend: React
